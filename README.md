@@ -16,7 +16,7 @@ simulator (separate repo). Same research question, same energy model.. extended 
 | `lattice_mc_3d.py` | Core engine: cubic lattice, chains, moves (end/kink/rigid translation), enhanced chain-relocation move |
 | `cluster_analysis_3d.py` | Aggregate detection, gyration-tensor shape descriptors (asphericity, acylindricity, κ²), vesicle/pocket detection |
 | `dispersed_3d.py` | Buffered-placement variant used only for metastability testing (not the standard model) |
-| `validation_checks_3d.py` | Reproducible equilibration and metastability checks -- run these, don't just trust the writeup |
+| `validation_checks_3d.py` | Reproducible equilibration and metastability checks; run these (recomended) |
 | `validation_3d_writeup.md` | Full account of the validation phase, including the central finding below |
 
 ---
